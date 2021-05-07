@@ -19,3 +19,5 @@ A mini arcade done in a group for a high school project done all in visual basic
 7. Check all boxes of prizes you would like and click "Checkout".
 8. Click "Exit" to end program.
 
+# Video Demo
+Link: https://youtu.be/XzeGoCLZ_mw
