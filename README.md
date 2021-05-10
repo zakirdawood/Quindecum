@@ -1,6 +1,9 @@
 # Quindecum
 A mini arcade done in a group for a high school project done all in visual basic.
 
+# Video Demo
+Link: https://youtu.be/XzeGoCLZ_mw
+
 # Games
 - Speedy's Reaction Test
 - Ruler of the Knights
@@ -18,6 +21,3 @@ A mini arcade done in a group for a high school project done all in visual basic
 6. When you are done, click "Prizes" button.
 7. Check all boxes of prizes you would like and click "Checkout".
 8. Click "Exit" to end program.
-
-# Video Demo
-Link: https://youtu.be/XzeGoCLZ_mw
